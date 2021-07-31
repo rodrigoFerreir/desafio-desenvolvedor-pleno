@@ -1,0 +1,16 @@
+#Instalação do projeto:
+  - Dentro do diretório "api":
+  Instalando as dependencias do projeto:
+    - npm install 
+  Rodando o projeto e ambiente de desenvolvimento:
+    - npm run dev
+  Rodando applicação API
+    - npm start
+    
+  - Dentro do diretório "front":
+   Instalando dependencias do projeto:
+    - npm install
+   Rodando o projeto e ambiente de desenvolvimento:
+   - npm run dev
+   Rodando applicação Next.js
+    - npm start
